@@ -1,5 +1,5 @@
 /*
-    Program File Name: Ch5Ex20.cpp
+    Program File Name: Ch5Ex23.cpp
     Programmer: Gabriel Inocentes
     Date: May 3, 2025
     Requirements: Make a program that makes a cool pattern that goes left and right
